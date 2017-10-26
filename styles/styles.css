@@ -1,0 +1,106 @@
+.separator {
+  height: 30px;
+  background-color: #bdbdbd;
+  margin: 1px solid #bdbdbd;
+}
+.no-pad {
+  padding: 0;
+}
+.nav-item {
+  /**flex-direction: row;
+  margin: 10px;
+}
+.ul {
+  flex-direction: row;
+}
+.li {
+  flex-direction: row;
+
+**/
+}
+h1 {
+    /**margin-bottom: 20px;**/
+    font-family: 'Oxygen', sans-serif;
+    color: #ffffff;
+    font-size: 4em;
+    text-align: left;
+    font-style: bold;
+    text-shadow: black 1px 1px 10px;
+  }
+  .h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-align: left;
+  }
+  .full-overlay{
+    position: relative;
+    z-index: 1;
+    height:350px;
+    text-align: center;
+    padding:40px;
+    background:url("../images/hero-heater.jpg") no-repeat;
+    background-size: cover;
+  }
+  .full-overlay:after{
+    background: rgba(0, 0, 0, 0.5);
+    content: "";
+    width: 100%;
+    height: auto;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    top: 0;
+    }
+  .content{
+    margin-top:50px;
+    margin-bottom:50px;
+  }
+  /**.box {
+    height: 155px;
+    background-color: #FFC107;
+    color: gray;
+    border: ;
+    margin: 5px;**/
+  }
+  /**.offset {
+    color: #ffc107;**/
+  }
+.row {
+  height: auto;
+  width: 100%;
+  background-color: #FFC107;
+}
+.category{
+  font-family: 'Open Sans', sans-serif;
+  font-color: #FFECB3;
+  font-size: 1em;
+  padding: 15px;
+}
+.footer {
+  width: 100%;
+  height: 200px;
+  background-color: #333333;
+  padding: 10px;
+}
+.footer-container {
+  height: 180px;
+  align: center;
+}
+.footer-text {
+  font-family: 'Open Sans', sans-serif;
+  font-color: #ffffff;
+  text-align: center;
+
+}
+
+
+
+
+
+font-family: 'Oxygen', sans-serif;
+
+font-family: 'Oxygen', sans-serif;
+font-family: 'Open Sans', sans-serif;
